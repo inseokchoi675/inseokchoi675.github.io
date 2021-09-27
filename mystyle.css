@@ -1,0 +1,31 @@
+p{
+
+font-weight:bold;
+
+}
+
+h2 {
+font-weight: bold;
+color: Grey;
+font-size: 24px;
+}
+
+
+
+
+body{
+background-color: #42f5bf;
+
+}
+
+
+
+
+
+a{
+color: hotpink;
+
+}
+a:hover{
+color: white;
+}
